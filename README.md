@@ -517,15 +517,6 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
-## Contact
-
-**Nafis Rayan**
-- 📧 Email: [nafisrayan123@gmail.com](mailto:nafisrayan123@gmail.com)
-- 🐙 GitHub: [https://github.com/NafisRayan](https://github.com/NafisRayan)
-- 🌐 Website: [Portfolio](https://nafisrayan.vercel.app)
-
----
-
 ## Acknowledgments
 
 - **Design Credit**: [Hamza Naeem](https://www.figma.com/@hamzauix) for the original Figma design
