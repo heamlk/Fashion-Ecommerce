@@ -515,15 +515,7 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-```
 
-## Acknowledgments
-
-- **Design Credit**: [Hamza Naeem](https://www.figma.com/@hamzauix) for the original Figma design
-- **Figma File**: [E-commerce Website Template](https://www.figma.com/community/file/1273571982885059508/e-commerce-website-template-freebie)
-- **Community**: Thanks to all contributors and users
-
----
 
 **⭐ If you found this project helpful, please give it a star!**
 
